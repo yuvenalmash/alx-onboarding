@@ -1,0 +1,15 @@
+step0: Start
+
+step1: Accept three numbers from user (a, b, c)
+
+step2: If a < b then goto step 3 else goto step 5
+
+step3: If b < c then goto step 6 else goto step 4
+
+step4: Interchange b and c and goto step 2
+
+step5: Interchange a and b and goto step 3
+
+step6: Display a, b, c
+
+step7:Stop
