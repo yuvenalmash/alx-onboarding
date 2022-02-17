@@ -1,0 +1,7 @@
+step0: Start
+step1: set sum = 0
+step2: enter number
+step3: number + sum = sum
+step4: if sum is negative go to step5 else goto step2
+step5: display sum
+step6: Stop
