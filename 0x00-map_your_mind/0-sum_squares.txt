@@ -1,0 +1,6 @@
+set total to 0
+input number = x
+square x = y
+add y to total
+check if there is another input number
+if there is repeat from step 2 else print the total
